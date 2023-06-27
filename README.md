@@ -1,2 +1,2 @@
-# C++ - Exs
+# C++ Exs
  C++ practicing
